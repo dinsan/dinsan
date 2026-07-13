@@ -30,11 +30,6 @@ Currently at **Armis**, building high-performance advertising infrastructure spa
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Loord's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinsan&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinsan&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 🎯 What I care about
 
 - Clean architecture — OOP, SOLID, domain-driven design
