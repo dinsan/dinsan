@@ -1,10 +1,10 @@
 # ✨ Dinsan's GitHub Universe
 Welcome to my GitHub profile! Here you'll find my projects, experiments, and journey as a Software engineer  🚀
 
-**Full-Stack Software Engineer** : Full-stack engineer with 8+ years of experience building scalable web applications and microservices using Java
-17/21, Spring Boot 3, React, and TypeScript. Strong focus on clean architecture, API design (REST, OAuth2),
-performance, and cloud integrations (AWS, GCP). MSc Computer Science, EPITA Paris.
+## 👨‍💻 About Me
+I'm a Full-Stack Engineer with 8+ years of experience designing and building scalable web applications, distributed systems, and microservices.
 
+I specialize in Java 17/21, Spring Boot 3, React, and TypeScript, with a strong focus on clean architecture, API design (REST, OAuth2), performance optimization, and cloud-native solutions across AWS and GCP.
 
 ## 🛠 Tech Stack
 
@@ -44,4 +44,5 @@ performance, and cloud integrations (AWS, GCP). MSc Computer Science, EPITA Pari
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinmylk@gmail.com)
 
 ---
-*MSc Computer Science — EPITA Paris*
+🎓 MSc in Computer Science from EPITA Paris  
+🚀 Passionate about building reliable software, exploring new technologies, and creating impactful solutions.
