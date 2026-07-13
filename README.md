@@ -1,8 +1,10 @@
-# Hi, I'm Loord Dinsan 👋
+# ✨ Dinsan's GitHub Universe
+Welcome to my GitHub profile! Here you'll find my projects, experiments, and journey as a Software engineer  🚀
 
-**Full-Stack Software Engineer** in Paris, France — 8+ years building scalable web applications and microservices.
+**Full-Stack Software Engineer** : Full-stack engineer with 8+ years of experience building scalable web applications and microservices using Java
+17/21, Spring Boot 3, React, and TypeScript. Strong focus on clean architecture, API design (REST, OAuth2),
+performance, and cloud integrations (AWS, GCP). MSc Computer Science, EPITA Paris.
 
-Currently at **Armis**, building high-performance advertising infrastructure spanning Google and Meta with Java 21, Spring Boot 3, and React/TypeScript.
 
 ## 🛠 Tech Stack
 
