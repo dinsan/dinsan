@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here you'll find my projects, experiments, and jou
 
 I'm a **Full-Stack Engineer with 8+ years of experience** designing and building scalable web applications, distributed systems, APIs, and microservices.
 
-My primary focus is **Java, Spring Boot, Node.js, Python, React, Next.js, TypeScript, JavaScript, and SQL**, with a strong interest in **AI-powered application development and developer productivity tools**.
+My primary focus is **Java, Spring Boot, Node.js, Python, React, Next.js, TypeScript, JavaScript, and SQL**, with a strong interest in **AI-powered application development and developer productivity**.
 
 I enjoy building reliable, maintainable systems using clean architecture, modern engineering practices, cloud technologies, and AI-assisted development.
 
@@ -73,6 +73,14 @@ Interested in **AI-assisted development, LLM applications, AI APIs, prompt engin
 * 🗄️ Advanced SQL and database optimization
 * ☁️ Cloud-native architectures
 * 🔧 AI-assisted software engineering
+
+## 🔗 Related Awesome Lists
+
+If you're exploring Python tooling and developer productivity, you might also enjoy these curated collections:
+
+- **[Awesome Python Code Formatters](https://github.com/life4/awesome-python-code-formatters)** — A curated list of Python formatters, linters, and code-quality tools.
+- **[Awesome Python Typing](https://github.com/typeddjango/awesome-python-typing)** — Tools and resources for Python type hints and static analysis.
+- **[Awesome Python Testing](https://github.com/cleder/awesome-python-testing)** — A guide to Python testing frameworks, tools, and best practices.
 
 ## 📫 Let's Connect
 
