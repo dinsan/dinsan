@@ -15,6 +15,7 @@ I enjoy building reliable, maintainable systems using clean architecture, modern
 ### ☕ Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -91,4 +92,4 @@ If you're exploring Python tooling and developer productivity, you might also en
 
 🎓 **MSc in Computer Science — EPITA Paris**
 
-🚀 Passionate about building reliable software, exploring modern **Java, Python, JavaScript/TypeScript, React, Next.js, Node.js, SQL, and AI technologies**, and creating impactful engineering solutions.
+🚀 Passionate about building reliable software, exploring modern **Java, Python, JavaScript/TypeScript, React, Next.js, Node.js, SQL, and AI technologies**, and creating impactful engineering solutions that combine product thinking with clean, scalable architecture.
