@@ -1,4 +1,4 @@
-# ✨ Dinsan's GitHub Universe
+# ✨ Dinsan Full stack developer
 
 Welcome to my GitHub profile! Here you'll find my projects, experiments, and journey as a **Full-Stack Software Engineer** 🚀
 
