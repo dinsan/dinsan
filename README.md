@@ -79,6 +79,7 @@ Interested in **AI-assisted development, LLM applications, AI APIs, prompt engin
 
 If you're exploring Python tooling and developer productivity, you might also enjoy these curated collections:
 
+- **[Awesome Python](https://awesome-python.com/)** — A curated list of Python frameworks, libraries, and resources.
 - **[Awesome Python Code Formatters](https://github.com/life4/awesome-python-code-formatters)** — A curated list of Python formatters, linters, and code-quality tools.
 - **[Awesome Python Typing](https://github.com/typeddjango/awesome-python-typing)** — Tools and resources for Python type hints and static analysis.
 - **[Awesome Python Testing](https://github.com/cleder/awesome-python-testing)** — A guide to Python testing frameworks, tools, and best practices.
@@ -92,4 +93,4 @@ If you're exploring Python tooling and developer productivity, you might also en
 
 🎓 **MSc in Computer Science — EPITA Paris**
 
-🚀 Passionate about building reliable software, exploring modern **Java, Python, JavaScript/TypeScript, React, Next.js, Node.js, SQL, and AI technologies**, and creating impactful engineering solutions that combine product thinking with clean, scalable architecture.
+🚀 Passionate about building reliable software, exploring modern **Java, Python, JavaScript/TypeScript, React, Next.js, Node.js, SQL, and AI technologies**, and creating impactful engineering solutions.
