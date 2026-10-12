@@ -118,15 +118,6 @@ Currently exploring:
 My goal is to build AI-enabled applications that solve real business problems rather than simply demonstrate new technologies.
 
 ---
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinsan&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinsan&layout=compact&hide_border=true)
-
----
-
 ## 🤝 Engineering Philosophy
 
 I believe great software should be:
