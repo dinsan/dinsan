@@ -110,7 +110,7 @@ Currently exploring:
 - **AI agents** — Building tools capable of automating multi-step workflows
 - **RAG architectures** — Connecting language models with external knowledge sources
 - **AI-assisted development** — Improving developer productivity while maintaining code quality
-- **Modern backend systems** — Python, FastAPI, Node.js, Java, and Spring Boot
+- **Modern backend systems** — Python, FastAPI, Node.js
 - **Cloud-native engineering** — Scalable APIs, containers, and asynchronous processing
 
 My goal is to build AI-enabled applications that solve real business problems rather than simply demonstrate new technologies.
