@@ -1,8 +1,8 @@
 # Hi, I'm Dinsan 👋
 
-### Senior Full-Stack Software Engineer | Python • React • Next.js • TypeScript • Node.js
+### Senior Full-Stack Software Engineer | Java • Spring Boot • React • Next.js • TypeScript
 
-🚀 **8+ years of experience** building scalable web applications, production backend systems, REST APIs, and automation solutions.
+🚀 **8+ years of experience** building scalable web applications, production backend systems, microservices, REST APIs, and automation solutions.
 
 💡 Passionate about **software architecture, backend engineering, cloud technologies, and AI-powered applications**.
 
@@ -14,14 +14,14 @@
 
 I'm a **Senior Full-Stack Software Engineer** with over 8 years of experience designing, developing, and maintaining production-ready software solutions.
 
-My expertise spans **frontend development, backend APIs, database design, distributed systems, and cloud-based architectures**.
+My expertise spans **frontend development, backend APIs, microservices, database design, distributed systems, and cloud-based architectures**.
 
 I enjoy solving complex engineering challenges, improving system performance, simplifying architectures, and delivering software that creates measurable business value.
 
-- 🔭 Experienced in **Python, React, Next.js, TypeScript, Node.js, and PostgreSQL**
+- 🔭 Experienced in **Java, Spring Boot, Hibernate, React, Next.js, TypeScript, and PostgreSQL**
 - 🏗️ Strong focus on **OOP, SOLID principles, Domain-Driven Design, and Clean Architecture**
-- ⚡ Experienced in **API development, workflow automation, asynchronous processing, and system optimization**
-- 🤖 Exploring **LLM integrations, AI agents, RAG, and AI-powered developer tools**
+- ⚡ Experienced in **microservice orchestration, Java multithreading, API development, workflow automation, and system optimization**
+- 🤖 Using **AI coding tools (Claude, OpenAI Codex, GitHub Copilot) daily for 3 years**, and exploring **LLM integrations, AI agents, and RAG**
 - ☁️ Working with **AWS, Google Cloud, Docker, and CI/CD pipelines**
 - 👥 Experienced in leading projects, collaborating across teams, and delivering production solutions
 - 🎓 **MSc — EPITA, Paris, France**
@@ -32,12 +32,12 @@ I enjoy solving complex engineering challenges, improving system performance, si
 
 ### Backend Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 
 ### Frontend Development
 
@@ -54,7 +54,6 @@ I enjoy solving complex engineering challenges, improving system performance, si
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Cloud, DevOps & Messaging
 
@@ -77,26 +76,27 @@ I enjoy solving complex engineering challenges, improving system performance, si
 
 ## 💼 Engineering Experience & Impact
 
-### ⚡ Backend Architecture & Automation
+### ⚡ Backend Architecture & Microservice Orchestration
 
-- Designed and developed scalable **REST APIs** supporting business-critical workflows.
-- Consolidated a multi-service media generation pipeline into a more streamlined **Python-based workflow**, reducing architectural complexity.
+- Built a **multithreaded microservice orchestration service in Java Spring Boot** that coordinates API calls across multiple services for campaign generation workflows.
+- Redesigned workflows with **Java multithreading**, scaling capacity from ~10–20 to **50+ simultaneous client campaigns** and improving campaign generation time by over 50%.
+- Designed and developed scalable **REST APIs** that consolidate advertising data from **Google Ads, Meta, and DV360**, achieving ~99% data accuracy for reporting.
+- Resolved **N+1 query issues in Hibernate** and applied **PostgreSQL indexing strategies** to reduce database overhead and improve response times.
 - Automated the transformation of **PSD templates into personalized advertising images**, integrating product data and AWS S3 storage.
-- Built asynchronous processing and orchestration solutions supporting **50+ client banner-generation requests**.
 - Improved production troubleshooting through automated error notifications containing relevant template, product, and campaign details.
 
 ### 🌐 Full-Stack Application Development
 
 - Developed responsive, maintainable web applications using **React, Next.js, TypeScript, and JavaScript**.
-- Built backend services with **Python, Flask, Node.js, and SQL databases**.
-- Designed reusable UI components, API integrations, and data-driven dashboards.
+- Built backend services with **Java, Spring Boot, Hibernate, and PostgreSQL**.
+- Designed reusable UI components, API integrations, and data-intensive dashboards, contributing to a ~30% quarterly reduction in user-reported bugs.
 - Collaborated with cross-functional teams to translate business requirements into production-ready solutions.
 
 ### 🏗️ Software Architecture & Quality
 
 - Apply **Object-Oriented Programming, SOLID principles, design patterns, and Clean Architecture**.
 - Focus on code readability, maintainability, automated testing, and performance optimization.
-- Experienced with distributed systems, asynchronous workflows, API design, and CI/CD practices.
+- Experienced with microservices, distributed systems, asynchronous and multithreaded workflows, API design, and CI/CD practices.
 
 ---
 
@@ -109,13 +109,14 @@ Currently exploring:
 - **LLM-powered applications** — Integrating language models into useful software products
 - **AI agents** — Building tools capable of automating multi-step workflows
 - **RAG architectures** — Connecting language models with external knowledge sources
-- **AI-assisted development** — Improving developer productivity while maintaining code quality
-- **Modern backend systems** — Python, FastAPI, Node.js
+- **AI-assisted development** — Using Claude, Codex, and GitHub Copilot daily to improve productivity while maintaining code quality
+- **Modern backend systems** — Java, Spring Boot, Node.js
 - **Cloud-native engineering** — Scalable APIs, containers, and asynchronous processing
 
 My goal is to build AI-enabled applications that solve real business problems rather than simply demonstrate new technologies.
 
 ---
+
 ## 🤝 Engineering Philosophy
 
 I believe great software should be:
